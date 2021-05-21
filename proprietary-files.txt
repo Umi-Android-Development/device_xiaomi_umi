@@ -44,6 +44,7 @@ vendor/lib/vndk/libxlog.so
 vendor/lib/libadiertac.so
 vendor/lib/libadm.so
 vendor/lib/libaudcal.so
+vendor/lib/liba2dpoffload.so
 vendor/lib/libaudio_log_utils.so
 vendor/lib/libaudioconfigstore.so
 vendor/lib/libaudioroute_ext.so
@@ -55,6 +56,7 @@ vendor/lib64/hw/audio.primary.kona.so
 vendor/lib64/hw/vendor.qti.hardware.audiohalext@1.0-impl.so
 vendor/lib64/libadiertac.so
 vendor/lib64/libaudcal.so
+vendor/lib64/liba2dpoffload.so
 vendor/lib64/libaudio_log_utils.so
 vendor/lib64/libaudioconfigstore.so
 vendor/lib64/libaudioroute_ext.so
