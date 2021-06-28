@@ -14,8 +14,8 @@ static const variant_info_t umi_info = {
     .device = "umi",
     .marketname = "Mi 10 5G",
     .model = "umi_global",
-    .build_description = "umi_global 11 RKQ1.200826.002 V12.5.2.0.RJBMIXM release-keys",
-    .build_fingerprint = "Xiaomi/umi_global/umi:11/RKQ1.200826.002/V12.5.2.0.RJBMIXM:user/release-keys",
+    .build_description = "redfin-user 11 RQ3A.210605.005 7349499 release-keys",
+    .build_fingerprint = "google/redfin/redfin:11/RQ3A.210605.005/7349499:user/release-keys",
 };
 
 static const std::vector<variant_info_t> variants = {
