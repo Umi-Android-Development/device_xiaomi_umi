@@ -7,13 +7,15 @@
 #include <libinit_kona.h>
 
 static const variant_info_t umi_info = {
-    .prop_key = "ro.boot.hwname",
-    .prop_value = "umi",
+    .hwc_value = "",
+    .sku_value = "",
 
     .brand = "Xiaomi",
     .device = "umi",
     .marketname = "Mi 10 5G",
     .model = "umi_global",
+
+    .nfc = true,
 };
 
 static const std::vector<variant_info_t> variants = {
